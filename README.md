@@ -1,3 +1,6 @@
+> 目前插件不是开源, 还没有准备好, 后续会整理开源所有的代码
+
+
 ### 简介
 
 Infio 最初是专为 Obsidian 开发的一款 AI 辅助插件，目前已经扩展至 Chrome/Edge 平台。如果您之前使用过 Infio for Obsidian，那么对 Infio for Chrome 的使用流程应该会非常熟悉。Chrome 应用商店中有大量的 AI 辅助插件，它们功能各异，而我们的设计理念可能与现有插件有所不同。
